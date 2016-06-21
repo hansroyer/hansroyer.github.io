@@ -1,0 +1,27 @@
+#journal-name {
+  color: #444444;
+  font-family: 'Inconsolata', 'Arial', sans-serif;
+  font-size: 200%;
+}
+
+#tagline {
+  font-family: 'Inconsolata', 'Arial', sans-serif;
+  color: #444444;
+}
+
+#post-body {
+  font-family: 'Inconsolata', 'Arial', sans-serif;
+  color: #444444;
+}
+
+#badges {
+  padding 10px;
+
+}
+
+@font-face {
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Inconsolata'), url(../fonts/Inconsolata-Regular.ttf) format('truetype');
+}
