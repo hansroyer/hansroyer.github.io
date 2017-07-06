@@ -1,7 +1,7 @@
 /* some style */
 
 #col {
-  -moz-column-count: 8;
-  -webkit-column-count: 8;
-  column-count: 8;
+  -moz-column-count: 12;
+  -webkit-column-count: 12;
+  column-count: 12;
 }
