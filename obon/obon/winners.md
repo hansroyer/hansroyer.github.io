@@ -1,5 +1,5 @@
 <div key="000" id="col">
-  <p key="1" class="winner">1</p>
+  <p key="1" class="winner">666</p>
   <p key="2" class="winner">2</p>
   <p key="3" class="winner">3</p>
   <p key="4" class="winner">4</p>
