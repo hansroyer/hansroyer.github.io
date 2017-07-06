@@ -1,7 +1,11 @@
 /* some style */
 
-#col {
+div.col {
   -moz-column-count: 12;
   -webkit-column-count: 12;
   column-count: 12;
+}
+
+div.col p{
+  margin-top:0px;
 }
