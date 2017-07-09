@@ -1,9 +1,9 @@
 /* some style */
 
 div.col {
-  -moz-column-count: 12;
-  -webkit-column-count: 12;
-  column-count: 12;
+  -moz-column-count: 6;
+  -webkit-column-count: 6;
+  column-count: 6;
 }
 
 div.col p{
